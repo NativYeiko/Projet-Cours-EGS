@@ -4,11 +4,11 @@
 }
 body {
     font-family: "Raleway", sans-serif;
-    overflow-y: scroll; 
-    overflow-x: hidden;    
+    overflow-y: scroll;
+    overflow-x: hidden;
 }
 p {
-    font-size: 14px;    
+    font-size: 14px;
 }
 
 
@@ -106,12 +106,17 @@ p {
 }
 
 .header-overlay {
-    background-color: rgba(31, 31, 31,0.75); 
+    background-color: rgba(31, 31, 31,0.75);
 }
 
 .logo {
     padding-bottom: 50px;
     }
+
+.logo-img{
+  width:50%;
+}
+
 .header-text h1 {
     color: #fff;
     font-size: 35px;
@@ -171,7 +176,7 @@ p {
     transition: all 1s;
     -webkit-transition: all 1s;
     -moz-transition: all 1s;
-    -o-transition: all 1s; 
+    -o-transition: all 1s;
 }
 .btn-tour:hover {
     color: #fff;
@@ -185,7 +190,7 @@ p {
 
 .header-iphone img{
     width: 100%;
-    margin-bottom: 25px;  
+    margin-bottom: 25px;
 }
 
 
@@ -365,7 +370,7 @@ p {
     color: #129CF3;
     width: 90px;
     height: 90px;
-    text-align: center;    
+    text-align: center;
 }
 
 .right-feature-item h3 {
@@ -466,7 +471,7 @@ p {
 .available-on {
     background-color: #1a1a1a;
     margin-top: -8px;
-    position: relative;    
+    position: relative;
 }
 .available-title {
     padding-top: 75px;
@@ -650,8 +655,3 @@ p {
     color: #fff;
     font-size: 25px;
 }
-
-
-
-
-
